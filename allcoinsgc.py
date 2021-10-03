@@ -2,7 +2,7 @@ import samino,time,os,sys
 from threading import Thread
 vip = [""] # userIds
 client = samino.Client("22D3085F471DF87A00FB4CE43052685FE93239644F93AD2140B23F3C77277FF6CAE5A0C164593CD9A8")
-client.login(email="ziekj0i1g7@xojxe.com",password="ravi11",asWeb=True)
+client.login(email="zxojxe.com",password="rjhgy1",asWeb=True)
 
 @client.event("on_message")
 def on_message(data: samino.lib.Event):
